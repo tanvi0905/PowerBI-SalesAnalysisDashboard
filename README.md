@@ -12,6 +12,6 @@ Date Filtering
 Conditional formatting, DAX measures, and tooltips
 
 🖼 Dashboard Preview
-(![screenshot](https://github.com/user-attachments/assets/83d4051e-535e-4e7d-8de0-73e0a2881cdf))
+![screenshot](https://github.com/user-attachments/assets/83d4051e-535e-4e7d-8de0-73e0a2881cdf)
  
 
